@@ -1,0 +1,8 @@
+check_gpg = true
+check_ssl = true
+id = "appstream"
+name = "appstream"
+rhsm = true
+system = true
+type = "yum-baseurl"
+url = "https://cdn.redhat.com/content/dist/rhel9/9/x86_64/appstream/os"
